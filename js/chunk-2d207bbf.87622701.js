@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d207bbf"],{a291:function(a,t,e){"use strict";e.r(t);var n=function(){var a=this,t=a.$createElement,e=a._self._c||t;return e("DChartFactory",{attrs:{meta:a.meta,data:a.data,id:"ring"}})},c=[],r=e("4cfb"),o=e("1cec"),u=e("9e19"),i={name:"DPieRingDemo",components:{DChartFactory:r["a"]},data:function(){return{meta:u["a"],data:Object(o["a"])(u["a"])}}},s=i,d=e("2877"),l=Object(d["a"])(s,n,c,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d207bbf.87622701.js.map

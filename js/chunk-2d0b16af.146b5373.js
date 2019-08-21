@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b16af"],{2083:function(a,t,n){"use strict";n.r(t);var e=function(){var a=this,t=a.$createElement,n=a._self._c||t;return n("DChartFactory",{attrs:{meta:a.meta,data:a.data,id:"funnel"}})},c=[],r=n("4cfb"),u=n("1cec"),o=n("02a4"),l={name:"DFunnelDemo",components:{DChartFactory:r["a"]},data:function(){return{meta:o["a"],data:Object(u["a"])(o["a"])}}},s=l,d=n("2877"),f=Object(d["a"])(s,e,c,!1,null,null,null);t["default"]=f.exports}}]);
+//# sourceMappingURL=chunk-2d0b16af.146b5373.js.map
