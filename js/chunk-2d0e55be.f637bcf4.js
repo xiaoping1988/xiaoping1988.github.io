@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e55be"],{"93c1":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("el-card",{attrs:{shadow:"never"}},[e._v("\n    我管理的数据\n")])},c=[],r={name:"DMyTbAuth"},u=r,l=t("2877"),s=Object(l["a"])(u,a,c,!1,null,null,null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0e55be.f637bcf4.js.map

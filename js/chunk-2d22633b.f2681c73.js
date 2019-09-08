@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22633b"],{e83e:function(e,a,n){"use strict";n.r(a);var t=function(){var e=this,a=e.$createElement,n=e._self._c||a;return n("DLayout",{attrs:{logo:"消息中心"}},[n("DMenuNav",{attrs:{data:e.menuList}})],1)},s=[],u={name:"DMessage",data:function(){return{menuList:[{name:"站内消息",path:"/message/onsite"},{name:"消息接收管理",path:"/message/receive-manage"}]}}},r=u,o=n("2877"),c=Object(o["a"])(r,t,s,!1,null,null,null);a["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d22633b.f2681c73.js.map
